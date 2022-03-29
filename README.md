@@ -1,2 +1,2 @@
-# OpenGL
-![Alt text](OpenGL/images/opengl_logo.png?raw=true "OpenGL Logo")
+# Emmanuel Elias OpenGL
+[<img alt="alt_text" width="360px" src="images/opengl_logo.png " />]

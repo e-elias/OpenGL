@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "557a3dca-5b14-462d-bda5-7eef356dc024": {
+      "ProjectGuid": "557a3dca-5b14-462d-bda5-7eef356dc024",
+      "DisplayName": "Hello Triangle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

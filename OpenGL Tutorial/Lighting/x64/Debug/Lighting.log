@@ -1,0 +1,37 @@
+﻿  lighting.cpp
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\shaders.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(20,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(172,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(205,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(206,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(213,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(214,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(221,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(222,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(229,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(230,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(238,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(239,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(347,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(348,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(352,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(353,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(354,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(355,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\lighting.cpp(362,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_thread.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(osmesa_context.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+  Lighting.vcxproj -> C:\Users\emman\Desktop\Everything\graphics\Projects\Lighting\x64\Debug\Lighting.exe

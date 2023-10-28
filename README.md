@@ -8,5 +8,5 @@ Below are gifs and images that show the evolution of the project
 
 <img alt="alt_text" width="360px" src="images/snoopy_triangle.gif " />
 
-<img alt="alt_text" width="360px" src="images/cubes.gif " />
+<img alt="alt_text" width="360px" src="images/cube.gif " />
 

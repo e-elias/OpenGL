@@ -16,5 +16,5 @@ Shaders rendering many images of Snoopy looking into a mirror on rotating pyrami
 
 <img alt="alt_text" width="360px" src="images/cubes.gif " />
 
-Lighting demonstration showing a flash light source coming from camera and colored lighting sources around the scene. The cubes have reflective sides and corners mimicing a metalic reflection.
+Lighting demonstration showing a flash light source coming from the camera and colored lighting sources around the scene. The cubes have reflective sides and corners mimicing a metalic reflection.
 

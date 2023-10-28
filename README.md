@@ -12,7 +12,7 @@ A basic triangle being rendered with shaders controlling how colors fade towards
 
 <img alt="alt_text" width="360px" src="images/snoopy_triangle1.gif " />
 
-Shaders rendering many images of Snoopy looking into a mirror on rotating pyramids
+Shaders rendering many images of Garfield looking into a mirror on rotating pyramids
 
 <img alt="alt_text" width="360px" src="images/cubes.gif " />
 

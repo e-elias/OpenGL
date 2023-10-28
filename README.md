@@ -6,7 +6,7 @@ This is a passion project driven by my love for computer graphics and video game
 
 Below are gifs that show the evolution of the graphics engine
 
-<img alt="alt_text" width="360px" src="images/snoopy_triangle.gif " />
+<img alt="alt_text" width="360px" src="images/snoopy_triangle1.gif " />
 
 <img alt="alt_text" width="360px" src="images/cubes.gif " />
 

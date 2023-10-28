@@ -8,7 +8,13 @@ Below are gifs that show the evolution of the graphics engine
 
 <img alt="alt_text" width="360px" src="images/triangle.PNG " />
 
+A basic triangle being rendered with shaders controlling how colors fade towards the corner
+
 <img alt="alt_text" width="360px" src="images/snoopy_triangle1.gif " />
 
+Shaders rendering many images of Snoopy looking into a mirror on rotating pyramids
+
 <img alt="alt_text" width="360px" src="images/cubes.gif " />
+
+Lighting demonstration showing a flash light source coming from camera and colored lighting sources around the scene. The cubes have reflective sides and corners mimicing a metalic reflection.
 

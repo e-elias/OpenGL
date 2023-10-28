@@ -1,0 +1,12 @@
+﻿  textures.cpp
+C:\Users\emman\Desktop\Everything\graphics\Projects\Textures\textures.cpp(19,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\emman\Desktop\Everything\graphics\Projects\Textures\textures.cpp(187,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Textures\textures.cpp(291,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Textures\textures.cpp(292,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Textures\textures.cpp(296,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Textures\textures.cpp(297,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Textures\textures.cpp(298,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Textures\textures.cpp(299,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\emman\Desktop\Everything\graphics\Projects\Textures\textures.cpp(306,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\Users\emman\Desktop\Everything\graphics\Projects\Textures\x64\Debug\glfw3.pdb'; linking object as if no debug info
+  Textures.vcxproj -> C:\Users\emman\Desktop\Everything\graphics\Projects\Textures\x64\Debug\Textures.exe
